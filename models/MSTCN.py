@@ -1,3 +1,9 @@
+'''
+Y. Abu Farha and J. Gall.
+MS-TCN: Multi-Stage Temporal Convolutional Network for Action Segmentation.
+In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019
+'''
+
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
