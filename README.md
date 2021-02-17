@@ -1,5 +1,5 @@
-# MTL-VF-and-IMTL-AGF
-Pytorch implementation for the paper "Towards Accurate and Interpretable Surgical Skill Assessment: A Video-Based Method Incorporating Recognized Surgical Gestures and Skill Levels" accepted for MICCAI 2020 **[Being Updated]**.
+# MTL-VF&IMTL-AGF&PG-GS
+Pytorch implementation for the paper "Towards Accurate and Interpretable Surgical Skill Assessment: A Video-Based Method Incorporating Recognized Surgical Gestures and Skill Levels" accepted for MICCAI 2020 and its expansion **[Being Updated]**.
 
 ## Dataset
 * The features can be downloaded from the google drive folder **```./data/features/```**.
