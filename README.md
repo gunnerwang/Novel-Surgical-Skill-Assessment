@@ -1,5 +1,5 @@
 # Three Frameworks: MTL-VF, IMTL-AGF, PG-GS
-Pytorch implementation for the paper "Towards Accurate and Interpretable Surgical Skill Assessment: A Video-Based Method Incorporating Recognized Surgical Gestures and Skill Levels" accepted for MICCAI 2020 and its expansion **[Being Updated]**.
+Pytorch implementation for the paper "Towards Accurate and Interpretable Surgical Skill Assessment: A Video-Based Method Incorporating Recognized Surgical Gestures and Skill Levels" published at MICCAI 2020 and its expansion work published at IJCARS.
 
 ## Dataset
 * The features can be downloaded from the aliyundrive link [here](https://www.sciencedirect.com/journal/control-engineering-practice) and put in local folder **```./data/features/```**.
