@@ -1,4 +1,4 @@
-# Three Correlated Frameworks: MTL-VF, IMTL-AGF, PG-GS
+# Three Frameworks: MTL-VF, IMTL-AGF, PG-GS
 Pytorch implementation for the paper "Towards Accurate and Interpretable Surgical Skill Assessment: A Video-Based Method Incorporating Recognized Surgical Gestures and Skill Levels" accepted for MICCAI 2020 and its expansion **[Being Updated]**.
 
 ## Dataset
@@ -7,7 +7,9 @@ Pytorch implementation for the paper "Towards Accurate and Interpretable Surgica
 * Additional annotations as stated in this paper can be accessed via email to us.
 
 ## Usage
-
+```python
+python3 main.py
+```
 
 ## Citation
 ```
