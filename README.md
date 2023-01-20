@@ -2,7 +2,7 @@
 Pytorch implementation for the paper "Towards Accurate and Interpretable Surgical Skill Assessment: A Video-Based Method Incorporating Recognized Surgical Gestures and Skill Levels" published at MICCAI 2020 and its expansion work published at IJCARS.
 
 ## Dataset
-* The features can be downloaded from the Google Drive [link]() and put in local folder **```./data/features/```**.
+* The features can be downloaded from the Google Drive [link](https://drive.google.com/drive/folders/1vwFQgM9XCfaT8VE5wQKZgNvYHPwUKyPD?usp=sharing) and put in local folder **```./data/features/```**.
 * The annotations for JIGSAWS dataset can be accessed online and put in local folder **```./data/```**.
 * Additional annotations as stated in this paper can be accessed via email to us.
 
